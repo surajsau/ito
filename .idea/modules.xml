@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ito.iml" filepath="$PROJECT_DIR$/ito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-app/app.iml" filepath="$PROJECT_DIR$/sample-app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/ito-annotations/ito-annotations.iml" filepath="$PROJECT_DIR$/ito-annotations/ito-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ito-library.iml" filepath="$PROJECT_DIR$/ito-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/ito-processor/ito-processor.iml" filepath="$PROJECT_DIR$/ito-processor/ito-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-app/sample-app.iml" filepath="$PROJECT_DIR$/sample-app/sample-app.iml" />
     </modules>
   </component>
 </project>

@@ -1,1 +1,1 @@
-include ':app', ':ito-annotations', ':ito-processor'
+include ':sample-app', ':ito-annotations', ':ito-processor'
